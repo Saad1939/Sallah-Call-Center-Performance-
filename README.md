@@ -63,6 +63,49 @@ Example:
 ## Skills Demonstrated
 
 Power BI | Power Query | DAX | Data Cleaning | Data Modeling | Data Visualization | Business Intelligence | KPI Analysis
+## Business Insights
+
+### 1. Overall Call Handling Performance
+
+The call center handled approximately 98.68% of all offered calls, indicating a high overall call-handling ratio during the analyzed period.
+
+### 2. March Experienced a Significant Increase in Call Volume
+
+March recorded 876,199 offered calls, compared with 446,217 in February. This represented an increase of approximately 96.4% in incoming call volume.
+
+### 3. March Had the Lowest Service Level
+
+The service level declined from 94.68% in February to 87.06% in March before recovering to 95.53% in April.
+
+This decline indicates that a smaller proportion of incoming calls were answered within the defined threshold during March.
+
+### 4. Increased Abandonment Rate in March
+
+The abandonment rate increased from 0.48% in February to 2.15% in March, then decreased to 0.50% in April.
+
+The March result highlights an area for further investigation into waiting times, staffing capacity, and daily call demand.
+
+### 5. Average Speed of Answer
+
+Average ASA increased from 5.78 in February to 14.43 in March, before declining to 7.05 in April.
+
+This pattern suggests a deterioration in answer speed during March, followed by a recovery in April. The unit of measurement and unusually high individual values should be validated before operational conclusions are finalized.
+
+### 6. Project Performance Comparison
+
+Project C recorded the highest handling ratio (99.14%), the highest service level (95.16%), and the lowest abandonment rate (0.86%) among the three projects.
+
+Project B recorded the lowest handling ratio (98.34%) and service level (90.33%), as well as the highest abandonment rate (1.66%).
+
+Differences in workload and call volume should be considered when interpreting these comparisons.
+
+## Business Recommendations
+
+* Investigate the operational factors behind March's increased call volume and lower service level.
+* Review staffing levels and workload distribution during peak periods.
+* Monitor ASA and abandonment rate together to identify potential service bottlenecks.
+* Compare agent performance using average ASA and call-handling metrics rather than the sum of ASA.
+* Validate unusually high ASA observations and confirm the service-level calculation before making operational decisions.
 
 ## Author
 
